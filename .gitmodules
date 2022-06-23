@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "baggr"]
+	path = baggr
+	url = https://github.com/wwiecek/baggr
+	shallow = true
+	registered = true
